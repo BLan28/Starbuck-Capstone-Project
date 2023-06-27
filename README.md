@@ -41,3 +41,5 @@ Special thanks to Starbucks and Udacity for providing the data and project inspi
 Please note that this project is for educational purposes and should not be used for commercial applications without appropriate permissions and considerations.
 
 Feel free to explore, modify, and build upon this project as per your requirements. Enjoy analyzing the Starbucks customer data and optimizing offer targeting strategies!
+
+Link blog post [here](https://medium.com/@ntblan2803/maximizing-customer-engagement-unleashing-the-power-of-data-in-starbucks-capstone-challenge-e0c9c2762834).
