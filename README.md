@@ -25,12 +25,12 @@ profile.json - provides demographic data for each customer.
 transcript.json - records transactions, offers received, offers viewed, and offers completed.
 
 ### 4. How to Interact with Your Project
-	To run the project, follow these steps:
+To run the project, follow these steps:
 
-		1. Ensure that you have installed all the required libraries mentioned in the Installation section.
-		2. Download the project files (portfolio.json, profile.json, and transcript.json).
-		3. Open the project notebook and run the cells in sequential order.
-		4. The notebook will guide you through data cleaning, data processing, data exploration, customer segmentation, and model building.
+1. Ensure that you have installed all the required libraries mentioned in the Installation section.
+2. Download the project files (portfolio.json, profile.json, and transcript.json).
+3. Open the project notebook and run the cells in sequential order.
+4. The notebook will guide you through data cleaning, data processing, data exploration, customer segmentation, and model building.
 
 ### 5. Licensing, Authors, Acknowledgements
 
